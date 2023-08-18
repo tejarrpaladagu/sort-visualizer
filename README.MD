@@ -7,7 +7,7 @@ This is a web application built using HTML, CSS, Javascript to visualize classic
 **Code-** [sort visualizer code](https://github.com/dharshakch97/sort-visualizer)
 
 Project Team :
-Darshak
+Darshak,
 Teja
 
 ## Purpose
